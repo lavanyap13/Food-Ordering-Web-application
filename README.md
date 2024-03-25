@@ -1,18 +1,6 @@
-# Food Delivery WebApp using MERN Stack
+# Food Delivery WebApp 
 ---
 
-## Table of contents
-
-  - [Overview](#overview)
-  - [The Features](#the-features)
-  - [Technologies](#Technologies)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
-  - [Author](#author)
-
----
 
 ## Overview
 
@@ -33,21 +21,6 @@ This is a food delivery web application that offers various items of food from a
 - Finally user can make payment
 - Oder history is available for every user as well
 
-### Technologies
-
-- React 
-- Redux
-- React Hooks
-- Bootstrap
-- Firebase
-- Font Awesome
-- nodejs
-- express
-- Axios
-- mongodb
-- mongoose
-- MVC pattern
-- JWT token
 
 
 ### Screenshot
@@ -68,19 +41,3 @@ This is a food delivery web application that offers various items of food from a
 
 - Live Link : [Live Link](https://food-delivery24.herokuapp.com/)
 
-### What I learned
-The main objective of this project was to get hands-on experience by working with `Redux` for state management. I have previously worked on other projects where the context API was used for state management purpose. I have also gained a lot of knowledge by handling `RESTful APIs` & creating server-side applications with `nodeJs` & `ExpressJs`. Creating database models and dealing with errors with custom error middleware are also ways to gain experience.
-
-
-### Useful resources
-
-[React - Doc](https://reactjs.org/) 
-[React Router - Doc](https://reactrouter.com/web) 
-[ExpressJs - Doc](https://expressjs.com/) 
-
-
----
-
-## Author
-
-- Linkedin - [Rakibul](https://linkedin.com/in/rakibul21)
